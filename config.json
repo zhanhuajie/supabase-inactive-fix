@@ -2,7 +2,7 @@
   {
     "name": "Cese2",
     "supabase_url": "https://eqzacpnmndbpbjiebcim.supabase.co",
-    "supabase_key": "sb_publishable_fZB701CTVNFzItypOkTlEg_tz-tJQwI",
+    "supabase_key_env": "SUPABASE_KEY_CESE2",
     "table_name": "keep-alive"
   }
 ]
